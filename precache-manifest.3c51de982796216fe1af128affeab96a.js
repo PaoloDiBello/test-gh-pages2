@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/test-gh-pages2/static/js/runtime~main.448b6bf0.js"
   },
   {
-    "revision": "208d2ddd6e5d2654748a",
-    "url": "/test-gh-pages2/static/js/main.0fdc0c45.chunk.js"
+    "revision": "d6698d35e3f4ba319aae",
+    "url": "/test-gh-pages2/static/js/main.21ce5574.chunk.js"
   },
   {
     "revision": "696e66af247ddc83d43e",
     "url": "/test-gh-pages2/static/js/2.9121c4a9.chunk.js"
   },
   {
-    "revision": "208d2ddd6e5d2654748a",
+    "revision": "d6698d35e3f4ba319aae",
     "url": "/test-gh-pages2/static/css/main.3f340e52.chunk.css"
   },
   {
-    "revision": "175fc2f5f072dbe89607771a702dd1b7",
+    "revision": "f9515006a2805a9e85730b3f963c53c8",
     "url": "/test-gh-pages2/index.html"
   }
 ];
